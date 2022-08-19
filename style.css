@@ -1,0 +1,41 @@
+body {
+    direction: rtl;
+}
+
+.nav-tapsi {
+    border-radius: 15px;
+}
+
+.notif {
+    background-image: url(https://tapsi.ir/images/web-banner.jpg?5d3594ed30f25d4073625e585210bc07);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-home {
+    background-image: url(https://tapsi.ir/images/home/banner.webp);
+}
+
+.form-tapsi {
+    background-color: rgba(23, 26, 60, 0.7);
+    border-radius: 12px;
+}
+
+.bg-ab {
+    background-image: url(https://tapsi.ir/images/parallax.jpeg?4cbeb3626ae23a422ff68f732cc4a393);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.ax-man {
+    border-radius: 12px;
+}
+
+.blog-t {
+    border-radius: 12px;
+}
+
+.footer {
+    background-color: black;
+}
